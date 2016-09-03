@@ -1,0 +1,4 @@
+UomID###UomDesc$$$Results
+bites101&&&percentage10@@@Pass
+bites111&&&percentage11@@@Pass
+bites124&&&percentage12@@@Pass

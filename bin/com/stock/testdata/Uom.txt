@@ -1,0 +1,4 @@
+UomID###UomDesc
+bites101###percentage10
+bites111###percentage11
+bites124###percentage12
